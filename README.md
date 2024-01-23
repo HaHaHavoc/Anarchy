@@ -2,18 +2,3 @@
 # ARSENAL
 ## This project is a comprehensive educational resource library that compiles a diverse range of materials for the purpose of facilitating learning. It is designed to be accessible to a wide audience, making educational resources available to anyone interested in expanding their knowledge. The library curator emphasizes that they do not claim ownership of the information contained within and duly acknowledges the intellectual properties of respective authors.
 ## Users are granted access to the library with the understanding that its contents are strictly meant for educational purposes. The curator explicitly disclaims any responsibility for the actions of users and highlights that misuse of the library may result in bodily or lethal harm. By accessing the library, users acknowledge their individual responsibility for their actions and agree to use the resources in a responsible and ethical manner.
-##  Contents
-- [Advanced Surveilance Techniques](https://linktodocumentation)
-- [AI and Autonomous System](https://linktodocumentation)
-- [Alternate Power Sources](https://linktodocumentation)
-- [Ammunition](https://linktodocumentation)
-- [Anti-Drone Technology](https://linktodocumentation)
-- [Armor and Protective Gear](https://linktodocumentation)
-- [Balistic Protection](https://linktodocumentation)
-- [Biological and Chemical Defense](https://linktodocumentation)
-- [Biometric Identification](https://linktodocumentation)
-- [Biometric Security](https://linktodocumentation)
-- [Climate and Enviromental Inpact](https://linktodocumentation)
-- [Communication Devices](https://linktodocumentation)
-- [Conflict Resolution Strategies](https://linktodocumentation)
-- [Corporate and Industrial Relations](https://linktodocumentation)
